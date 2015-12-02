@@ -1,0 +1,19 @@
+[ 2015-12-02T13:16:26+08:00 ] ::1 /gxyblog/index.php/sayhello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Sayhello
+
+[ 2015-12-02T13:59:16+08:00 ] ::1 /gxyblog/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+ERR: 无法加载模块:Main
+
+[ 2015-12-02T14:04:49+08:00 ] ::1 /gxyblog/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+NOTIC: [2] preg_match(): No ending delimiter '/' found G:\phpStudy\WWW\gxyblog\ThinkPHP\Library\Think\Route.class.php 第 58 行.
+ERR: 无法加载模块:Main
+
